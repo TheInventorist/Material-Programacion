@@ -2,7 +2,7 @@
 
 Este repositorio está dedicado a aquellos profesores, estudiante y autodidactas que necesiten materiales de apoyo para impulsar el aprendizaje. Este proyecto cuenta con varias guías de ejercicios, materiales de apoyo, instructivos y soluciones por lenguaje, con la finalidad de entregar todas las herramientas necesarias para el aprendizaje efectivo en la programación.
 
-![](name-of-giphy.gif)
+![Alt Text](https://media.giphy.com/media/fhAwk4DnqNgw8/source.gif)
 
 Las guías de ejercicios al igual que los materiales de apoyo están catalogados por herramienta de programación (condicionales, ciclos, clases, etc.).
 
