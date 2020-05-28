@@ -9,4 +9,7 @@ Las guías de ejercicios al igual que los materiales de apoyo están catalogados
 Los instructivos son un mapa de cómo enfrentar cada guía y material de apoyo de manera ordenada para tener un aprendizaje efectivo y guiado.
 
 Las soluciones están ordenadas por lenguaje, se han seleccionado los lenguajes más utilizados y los que se utilizan en las competencias de programación latinoamericanas e internacionales (ACM). 
-Este proyecto es un trabajo colaborativo con Roberto Leon, Phd in Computer Engineering roberto.leon@unab.cl, Javier Aguilera, mi estudiante estrella.
+
+Este proyecto es un trabajo colaborativo con:
+- Roberto Leon, Phd in Computer Engineering roberto.leon@unab.cl.
+- Javier Aguilera, estudiante de ingenieria, mi alumno estrella.
