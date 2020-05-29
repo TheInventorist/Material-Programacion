@@ -13,3 +13,4 @@ Las soluciones están ordenadas por lenguaje, se han seleccionado los lenguajes 
 Este proyecto es un trabajo colaborativo con:
 - Roberto Leon, Phd in Computer Engineering roberto.leon@unab.cl.
 - Javier Aguilera, estudiante de ingenieria, mi alumno estrella.
+- Vincent Depassier, estudiante de ingenieria civil informatica.
