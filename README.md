@@ -3,6 +3,7 @@
 Si te gusta el repositorio y nuestro trabajo, solo pedimos que nos des tu "watch" y "star" para saber que te agrada nuestro esfuerzo, así también estarás al tanto de modificaciones. Síguenos en nuestras redes.
 
 Estos ejercicios se están realizando en el siguiente canal.
+
 https://www.youtube.com/channel/UCorEC6DwpOxSTTYtpImVI_w?view_as=subscriber
 
 Este repositorio está dedicado a aquellos profesores, estudiante y autodidactas que necesiten materiales de apoyo para impulsar el aprendizaje. Este proyecto cuenta con varias guías de ejercicios, materiales de apoyo, instructivos y soluciones por lenguaje, con la finalidad de entregar todas las herramientas necesarias para el aprendizaje efectivo en la programación.
