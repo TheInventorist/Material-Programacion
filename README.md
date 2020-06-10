@@ -19,5 +19,6 @@ Las soluciones están ordenadas por lenguaje, se han seleccionado los lenguajes 
 Este proyecto es un trabajo colaborativo con:
 - Roberto Leon, Phd in Computer Engineering roberto.leon@unab.cl.
 - Javier Aguilera, estudiante de ingeniería, mi alumno estrella.
+- Felipe Velasco, estudiante del colegio Saint Dominic, el joven padawan
 - Vincent Depassier, estudiante de ingeniería civil informática.
 
