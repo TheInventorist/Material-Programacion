@@ -1,2 +1,2 @@
-grados = int(input("Ingrese grados Celsius: "))
-print("Grados en Fahrenheit:", ((grados * 9/5) + 32))
+celcius = int(input("Ingrese grados celcius: "))
+print(f"grados en Fahrenheit: {(celcius * 9/5) + 32}")
