@@ -1,2 +1,2 @@
-num = int(input("Ingrese numero: "))
-print(f"su cuadrado es: {str(num * num)}")
+numero = int(input("Ingrese numero: "))
+print(f"su cuadrado es: {str(numero * numero)}")
