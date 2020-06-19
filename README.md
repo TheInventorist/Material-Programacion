@@ -1,5 +1,11 @@
 ## Material-Programación
 
+Si te gusta el repositorio y nuestro trabajo, solo pedimos que nos des tu "watch" y "star" para saber que te agrada nuestro esfuerzo, así también estarás al tanto de modificaciones. Síguenos en nuestras redes.
+
+Estos ejercicios se están realizando en el siguiente canal.
+
+https://www.youtube.com/channel/UCorEC6DwpOxSTTYtpImVI_w?view_as=subscriber
+
 Este repositorio está dedicado a aquellos profesores, estudiante y autodidactas que necesiten materiales de apoyo para impulsar el aprendizaje. Este proyecto cuenta con varias guías de ejercicios, materiales de apoyo, instructivos y soluciones por lenguaje, con la finalidad de entregar todas las herramientas necesarias para el aprendizaje efectivo en la programación.
 
 ![Alt Text](https://media.giphy.com/media/fhAwk4DnqNgw8/source.gif)
@@ -12,5 +18,7 @@ Las soluciones están ordenadas por lenguaje, se han seleccionado los lenguajes 
 
 Este proyecto es un trabajo colaborativo con:
 - Roberto Leon, Phd in Computer Engineering roberto.leon@unab.cl.
-- Javier Aguilera, estudiante de ingenieria, mi alumno estrella.
-- Vincent Depassier, estudiante de ingenieria civil informatica.
+- Javier Aguilera, estudiante de ingeniería, mi alumno estrella.
+- Felipe Velasco, estudiante del colegio Saint Dominic, el joven padawan
+- Vincent Depassier, estudiante de ingeniería civil informática.
+

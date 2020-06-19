@@ -1,4 +1,4 @@
 from math import pi
 
 radio = float(input("Ingrese radio: "))
-print("Volumen: %.3f" % ((4/3)*pi*(radio**3)))
+print(f"Volumen: {round((4/3)*pi*(radio**3), 3)}")

@@ -1,2 +1,2 @@
 caracter = input("Ingrese caracter: ")
-print(ord(caracter))
+print(f"Codigo ASCII: {ord(caracter)}")

@@ -1,3 +1,3 @@
 oracion = input("Ingrese oracion: ")
-print("Oracion en mayuscula: " + oracion.upper())
-print("Oracion en minuscula: " + oracion.lower())
+print(f"Oracion en mayuscula: {oracion.upper()}")
+print(f"Oracion en mayuscula: {oracion.lower()}")
