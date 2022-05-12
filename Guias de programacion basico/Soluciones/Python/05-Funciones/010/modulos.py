@@ -20,6 +20,7 @@ def consumoDiario(planMB):
     cargo = estadoActual * 150
     print(f"Se consumieron {consumoTotal}mb y un cargo de {cargo}$")
 
+
 def verificadorPlan(planMB, consumo, estado):
     if(planMB*0.8 > consumo >= planMB*0.5):
         if(estado != 1):
